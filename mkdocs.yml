@@ -1,0 +1,36 @@
+  site_name: 双木成林    #左上角名称
+  theme:
+    name: material
+
+
+    icon:
+        logo: material/dog    #左上角的图标 可以去官网查看有什么默认图案
+
+    language: zh
+    palette:                   #
+        primary: blue          #改变颜色
+
+    features:
+        - navigation.top #返回顶部按钮
+        - navigation.tabs #顶部分类标签
+        - search.highlight #搜索结果高亮展示
+
+
+
+  copyright:  ™ 2021~forever 林嘉伟超级210有限公司独家冠名
+
+
+  nav:
+
+  - 首页: 首页.md
+  - 恋爱历程:
+    - 早年经历: 恋爱历程/早年经历.md
+    - 高中时期: 恋爱历程/高中时期.md
+    - 大学时期: 恋爱历程/大学时期.md
+
+  - 老婆美照:
+    - 西安（大一寒假）: 老婆美照.md/西安（大一寒假）.md
+    - 北京（大一暑假）: 老婆美照.md/北京（大一暑假）.md
+    - 南京（大二国庆）: 老婆美照.md/南京（大二国庆）.md
+
+
